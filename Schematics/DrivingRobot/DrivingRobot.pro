@@ -1,4 +1,4 @@
-update=Monday, July 17, 2017 'pmt' 02:11:28 pm
+update=Monday, July 17, 2017 'pmt' 04:23:10 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -57,5 +57,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=Library/Arduino
+LibName31=Library/DrivingRobot
 [general]
 version=1
