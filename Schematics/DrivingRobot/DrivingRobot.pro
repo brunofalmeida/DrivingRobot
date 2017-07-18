@@ -1,4 +1,4 @@
-update=Monday, July 17, 2017 'pmt' 06:43:59 pm
+update=Tuesday, July 18, 2017 'pmt' 04:03:36 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,5 +58,15 @@ LibName28=contrib
 LibName29=valves
 LibName30=Library/Arduino
 LibName31=Library/DrivingRobot
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1
