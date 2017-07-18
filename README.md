@@ -7,7 +7,7 @@ An Arduino-powered driving robot that senses nearby objects and can be controlle
 
 ## Electrical Schematic
 
-![](Schematics/Schematic-Colour.png)
+![](Schematics/Schematic-Colour-Cropped.png)
 
 
 ## Software Repositories
