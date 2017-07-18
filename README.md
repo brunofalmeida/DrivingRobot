@@ -2,6 +2,13 @@
 
 An Arduino-powered driving robot that senses nearby objects and can be controlled by an Android device over Bluetooth.
 
+![](Photos/07-18-July18-4.jpg)
+
+
+## Electrical Schematic
+
+![](Schematics/Schematic-Colour.png)
+
 
 ## Software Repositories
 
