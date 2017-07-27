@@ -20,7 +20,8 @@ Android: https://github.com/brunofalmeida/DrivingRobot-Android
 
 [HC-05](https://www.creatroninc.com/product/hc-05-bluetooth-module/): Bluetooth module
 
-[HC-SR04](https://www.creatroninc.com/product/hc-sr04-ultrasonic-sensor/): Ultrasonic sensor (measures distance to nearby object using the time from when the wave is produced to when it returns)
+[HC-SR04](https://www.creatroninc.com/product/hc-sr04-ultrasonic-sensor/): Ultrasonic sensor
+- Measures the distance to nearby objects using the time between when the wave is produced and when it returns
 
 [SN754410](https://www.creatroninc.com/product/sn754410-quad-half-bridge-driver-36v-11a/): H-bridge to drive motors
 
