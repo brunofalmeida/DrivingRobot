@@ -14,6 +14,17 @@ Android: https://github.com/brunofalmeida/DrivingRobot-Android
 ![](Schematics/Schematic-Colour-Cropped.png)
 
 
+### Key Components
+
+[Arduino Uno](https://www.creatroninc.com/product/arduino-uno-rev3/): Microcontroller
+
+[HC-05](https://www.creatroninc.com/product/hc-05-bluetooth-module/): Bluetooth module
+
+[HC-SR04](https://www.creatroninc.com/product/hc-sr04-ultrasonic-sensor/): Ultrasonic sensor (measures distance to nearby object using the time from when the wave is produced to when it returns)
+
+[SN754410](https://www.creatroninc.com/product/sn754410-quad-half-bridge-driver-36v-11a/): H-bridge to drive motors
+
+
 ## Photos
 
 ### May 9
