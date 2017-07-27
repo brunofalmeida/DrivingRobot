@@ -2,7 +2,11 @@
 
 An Arduino-powered driving robot that senses nearby objects and can be controlled by an Android device over Bluetooth.
 
-![](Photos/07-18-July18-4.jpg)
+Arduino: https://github.com/brunofalmeida/DrivingRobot-Arduino
+
+Android: https://github.com/brunofalmeida/DrivingRobot-Android
+
+<img src="Photos/07-18-July18-4.jpg" width="68%"> <img src="Photos/AndroidApplication.png" width="28.7%">
 
 
 ## Electrical Schematic
@@ -10,14 +14,7 @@ An Arduino-powered driving robot that senses nearby objects and can be controlle
 ![](Schematics/Schematic-Colour-Cropped.png)
 
 
-## Software Repositories
-
-Arduino: https://github.com/brunofalmeida/DrivingRobot-Arduino
-
-Android: https://github.com/brunofalmeida/DrivingRobot-Android
-
-
-## Photos (2017)
+## Photos
 
 ### May 9
 
