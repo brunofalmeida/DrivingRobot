@@ -20,9 +20,9 @@ Android: https://github.com/brunofalmeida/DrivingRobot-Android
 
 **Designed in SolidWorks**
 
-**3D printed using MakerBot Print and MakerBot Replicator 2**
+**3D printed using MakerBot Print software and MakerBot Replicator 2 machine**
 
-<script src="CAD/Mechanical/9VBatteryHolder.STL"></script>
+<script src="https://embed.github.com/view/3d/brunofalmeida/DrivingRobot/master/CAD/Mechanical/9VBatteryHolder.STL"></script>
 
 
 ### Key Components
@@ -74,3 +74,5 @@ Android: https://github.com/brunofalmeida/DrivingRobot-Android
 ### December 4
 
 - Designed a custom 9V battery holder using SolidWorks; 3D printed using MakerBot Print software and a MakerBot Replicator 2 machine
+
+<img src="Photos/12-04-Dec4-1.jpg" width="49%"> <img src="Photos/12-04-Dec4-2.jpg" width="49%"> <img src="Photos/12-04-Dec4-3.jpg" width="49%">
