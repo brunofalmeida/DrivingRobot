@@ -16,7 +16,7 @@ Android: https://github.com/brunofalmeida/DrivingRobot-Android
 ![](CAD/Electrical/ElectricalSchematic-Colour-Cropped.png)
 
 
-## 9V Battery Box
+## 9V Battery Holder
 
 **Designed in SolidWorks**
 
