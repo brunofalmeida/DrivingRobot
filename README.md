@@ -22,7 +22,9 @@ Android: https://github.com/brunofalmeida/DrivingRobot-Android
 
 **3D printed using MakerBot Print software and MakerBot Replicator 2 machine**
 
-<script src="https://embed.github.com/view/3d/brunofalmeida/DrivingRobot/master/CAD/Mechanical/9VBatteryHolder.STL"></script>
+![Model](https://github.com/brunofalmeida/DrivingRobot/blob/master/CAD/Mechanical/9VBatteryHolder.STL)
+
+![](CAD/Mechanical/9VBatteryHolder.png)
 
 
 ### Key Components
